@@ -26,7 +26,7 @@ export const EditorMobileLayout: React.FC<EditorMobileLayoutProps> = ({
                     <DrawerHeader>
                         <DrawerTitle>Manage Diagram</DrawerTitle>
                         <DrawerDescription>
-                            Manage your diagram objects
+                            Manage your diagram objects!!!!!
                         </DrawerDescription>
                     </DrawerHeader>
                     <Separator orientation="horizontal" />
